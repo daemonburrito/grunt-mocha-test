@@ -32,9 +32,6 @@
     "hooker": "~0.2.3",
     "mkdirp": "^0.5.0"
   },
-  "peerDependencies": {
-    "mocha": ">=1.20.0"
-  },
   "devDependencies": {
     "chai": "~1.10.0",
     "coffee-script": "~1.8.0",
